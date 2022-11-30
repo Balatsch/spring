@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/shoppingCart/shoppingCart.iml" filepath="$PROJECT_DIR$/shoppingCart/shoppingCart.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
     </modules>
   </component>
 </project>
